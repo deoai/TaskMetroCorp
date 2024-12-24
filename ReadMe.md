@@ -1,4 +1,4 @@
-## Implementasi model Regresi Liner untuk prediksi harga berbasis tingkat hunian (in case hotel)
+## Implement a Linear Regression Model for Occupancy-Based Pricing Prediction (In Case Hotel)
 ### TechStack
     Backend:Nestjs
     Frontend:React
